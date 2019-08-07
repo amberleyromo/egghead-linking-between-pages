@@ -2,7 +2,7 @@ import React from "react"
 
 export default () => (
   <div style={{ color: `purple` }}>
-    <h1>Linking between pages in Gatsby</h1>
-    <p>What a world.</p>
+    <h1>Contact me!</h1>
+    <p>A form would go here.</p>
   </div>
 )
